@@ -25,7 +25,7 @@ A comprehensive real-time **SMS support management system** built with **Flask**
 ---
 
 ## 🎥 Demo Video
-![Watch the video](https://youtu.be/OUpafOO8D38)
+[![Watch the video](https://img.youtube.com/vi/OUpafOO8D38/0.jpg)](https://youtu.be/OUpafOO8D38)
 
 *(Click the image to watch the full demo video)*
 ---
