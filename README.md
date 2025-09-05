@@ -5,6 +5,30 @@
 A comprehensive real-time **SMS support management system** built with **Flask** and integrated with **Twilio API** for seamless customer communication. This web application enables support teams to manage conversations, handle incoming SMS, and provide efficient customer service through a centralized dashboard.
 
 ---
+## 🖼️ Screenshots
+
+### Dashboard Interface  
+![Dashboard](assets/dashboard.png)
+
+![Dashboard](assets/dashboard2.png)
+
+### Real-time Chat Interface  
+![Chat](assets/chat.png)
+
+### Contact Management  
+![Contacts](assets/contacts.png)
+
+### Message Tester  
+![Tester](assets/tester.png)
+
+
+---
+
+## 🎥 Demo Video
+![Watch the video](https://youtu.be/OUpafOO8D38)
+
+*(Click the image to watch the full demo video)*
+---
 
 ## ✨ Key Features
 
