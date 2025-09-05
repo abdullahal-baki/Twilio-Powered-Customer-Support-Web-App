@@ -83,7 +83,7 @@ A comprehensive real-time **SMS support management system** built with **Flask**
 ```
 ┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
 │   Twilio API    │◄──►│  Flask Backend   │◄──►│   Database      │
-│   (SMS Gateway) │    │  (Python/Flask)  │    │ (SQLite/Postgres)│
+│   (SMS Gateway) │    │  (Python/Flask)  │    │(SQLite/Postgres)│
 └─────────────────┘    └──────────────────┘    └─────────────────┘
                               │
                               ▼
